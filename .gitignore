@@ -14,8 +14,6 @@ env/
 # Logs and outputs
 logs/
 *.log
-artifacts/
-prediction/models/
 notebooks/.ipynb_checkpoints/
 
 # OS-specific
@@ -24,6 +22,20 @@ Thumbs.db
 
 # Environment files
 .env
+venv
+env
 
 # Jupyter
 .ipynb_checkpoints/
+
+
+
+env/
+__pycache__/
+*.ipynb
+logs/
+
+Dockerfile
+.dockerignore
+
+notebook

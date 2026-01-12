@@ -9,8 +9,4 @@ flask
 notebook
 python-dotenv
 streamlit
-<<<<<<< HEAD
 gunicorn
-=======
-gunicorn
->>>>>>> 96330c32d98eb035e4e93947b85d0353e2f10de3

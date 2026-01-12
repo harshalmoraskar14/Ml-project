@@ -9,6 +9,7 @@
     },
     "model": {
         "model_path": "artifacts\\model\\best_model.joblib",
+<<<<<<< HEAD
         "train_score": 0.9655826615144387,
         "test_score": 0.9650240530089602
     },
@@ -20,6 +21,18 @@
     "pushed": {
         "versioned_path": "prediction\\models\\models\\best_model_20260102_134403.joblib",
         "archived_previous_active": "prediction\\models\\archive\\current_model_20260102_134403.joblib",
+=======
+        "train_score": 0.9655826615144386,
+        "test_score": 0.9650240530089602
+    },
+    "evaluation": {
+        "RMSE": 8243.503973813782,
+        "MAE": 5749.0160413521,
+        "R2": 0.9650240530089602
+    },
+    "pushed": {
+        "versioned_path": "prediction\\models\\models\\best_model_20260103_184709.joblib",
+>>>>>>> 96330c32d98eb035e4e93947b85d0353e2f10de3
         "active_path": "prediction\\models\\models\\current_model.joblib"
     }
 }
